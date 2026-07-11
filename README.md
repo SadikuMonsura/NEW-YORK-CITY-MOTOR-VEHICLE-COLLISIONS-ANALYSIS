@@ -64,9 +64,9 @@ These included:
 
 ![](powerquery.png)
 
-![](cleandataset.png)
+![](clean_dataset.png)
 
-
+![](New_columns_and_metrics.png)
 
 
 
