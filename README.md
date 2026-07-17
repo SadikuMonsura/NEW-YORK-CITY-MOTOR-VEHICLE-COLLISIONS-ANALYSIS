@@ -68,5 +68,33 @@ These included:
 
 ![](New_columns_and_metrics.png)
 
+### Key Performance Indicators (KPIs) 
 
+| KPI     |    Value   |
+| :--- | :---: |
+| Total Collision | 238,421 |
+| Accidents with Death | 613 |
+| Accidents with injuries | 87,102 |
+| Fatality Rate | 26% |
+| Vehicle Types Identified | 17 |
 
+The KPIs indicate that fatal crashes represent only a very small proportion of all reported collisions, while injuries occur in more than one-third of accidents. 
+
+### Analysis and Findings 
+### Question 1: Percentage of Total Accidents by Month
+
+The monthly analysis shows noticeable variations in accident frequency throughout the year.
+
+Key observations include:
+- March recorded the highest proportion of collisions at approximately 11%.
+- January also recorded a high accident rate at approximately 10%.
+- Accident frequency gradually declined after March.
+- November and December recorded the lowest percentages, approximately 7%.
+
+### Seasonal Pattern
+The results indicate that accident frequency was highest during the first quarter of the year before gradually declining towards the end of the year. 
+
+Possible contributing factors include:
+- Increased traffic following holiday periods.
+- Seasonal weather conditions.
+- Changes in commuting patterns throughout the year.
