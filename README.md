@@ -68,6 +68,8 @@ These included:
 
 ![](New_columns_and_metrics.png)
 
+## ANALYSIS AND FINDINGS
+
 ### Key Performance Indicators (KPIs) 
 
 | KPI     |    Value   |
@@ -80,7 +82,6 @@ These included:
 
 The KPIs indicate that fatal crashes represent only a very small proportion of all reported collisions, while injuries occur in more than one-third of accidents. 
 
-### Analysis and Findings 
 ### Question 1: Percentage of Total Accidents by Month
 
 The monthly analysis shows noticeable variations in accident frequency throughout the year.
@@ -98,3 +99,62 @@ Possible contributing factors include:
 - Increased traffic following holiday periods.
 - Seasonal weather conditions.
 - Changes in commuting patterns throughout the year.
+
+### Question 2: Accident Frequency by Day of Week and Hour 
+
+### By Day of Week:
+
+Friday recorded the highest number of collisions with approximately 37,496 accidents, making it the most dangerous day of the week.
+
+Possible reasons include:
+- Increased commuter traffic.
+- Weekend travel.
+- Higher evening traffic volumes.
+
+### By Hour of Day
+
+Accidents were concentrated during the afternoon period.
+
+The busiest accident period occurred between:
+
+2:00 PM and 5:00 PM
+
+This coincides with:
+- School closing hours
+- Evening rush-hour traffic
+- Increased pedestrian activity
+
+The fewest accidents occurred during the midnight period.
+
+### Question 3: Street with the Highest Number of Collisions 
+
+The analysis identified Belt Parkway as the street with the highest number of reported collisions.
+
+Other high-risk streets include:
+- Broadway
+- Atlantic Avenue
+- Long Island Expressway
+- Brooklyn-Queens Expressway
+
+Although Belt Parkway recorded the highest number of accidents, it represents only a small percentage (around 1.6%) of all reported collisions, indicating that collisions are widely distributed across the city's road network rather than concentrated on a single roadway.
+
+### Question 4: Most Common Contributing Factors 
+
+The leading contributing factor for reported collisions was:
+
+Driver Inattention/Distraction
+
+Other frequently reported contributing factors include:
+- Unspecified
+- Failure to Yield Right-of-Way
+- Following Too Closely
+- Passing or Lane Usage Improper
+- Unsafe Speed
+- Backing Unsafely
+
+For fatal accidents specifically, driver-related behaviors such as distraction, unsafe driving practices, and failure to yield continued to be among the most significant contributing factors, highlighting the critical role of human behavior in severe crashes.
+
+
+
+
+
